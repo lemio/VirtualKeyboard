@@ -1,0 +1,192 @@
+<svg width="1024" height="360" viewBox="0 0 1024 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="keyboard">
+<g id="q" clip-path="url(#clip0_1_161)">
+<rect id="bg-q" x="8" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="w" clip-path="url(#clip1_1_161)">
+<rect id="bg-w" x="92" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="z" clip-path="url(#clip2_1_161)">
+<rect id="bg-z" x="92" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="e" clip-path="url(#clip3_1_161)">
+<rect id="bg-e" x="176" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="x" clip-path="url(#clip4_1_161)">
+<rect id="bg-x" x="176" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="r" clip-path="url(#clip5_1_161)">
+<rect id="bg-r" x="260" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="c" clip-path="url(#clip6_1_161)">
+<rect id="bg-c" x="260" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="t" clip-path="url(#clip7_1_161)">
+<rect id="bg-t" x="344" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="v" clip-path="url(#clip8_1_161)">
+<rect id="bg-v" x="344" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="y" clip-path="url(#clip9_1_161)">
+<rect id="bg-y" x="428" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="b" clip-path="url(#clip10_1_161)">
+<rect id="bg-b" x="428" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="u" clip-path="url(#clip11_1_161)">
+<rect id="bg-u" x="512" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="n" clip-path="url(#clip12_1_161)">
+<rect id="bg-n" x="512" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="i" clip-path="url(#clip13_1_161)">
+<rect id="bg-i" x="596" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="m" clip-path="url(#clip14_1_161)">
+<rect id="bg-m" x="596" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="o" clip-path="url(#clip15_1_161)">
+<rect id="bg-o" x="680" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="," clip-path="url(#clip16_1_161)">
+<rect id="bg-coma" x="680" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="p" clip-path="url(#clip17_1_161)">
+<rect id="bg-p" x="764" y="60" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="a" clip-path="url(#clip18_1_161)">
+<rect id="bg-a" x="34" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="s" clip-path="url(#clip19_1_161)">
+<rect id="bg-s" x="118" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="d" clip-path="url(#clip20_1_161)">
+<rect id="bg-d" x="202" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="f" clip-path="url(#clip21_1_161)">
+<rect id="bg-f" x="286" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="g" clip-path="url(#clip22_1_161)">
+<rect id="bg-g" x="370" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="h" clip-path="url(#clip23_1_161)">
+<rect id="bg-h" x="454" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="j" clip-path="url(#clip24_1_161)">
+<rect id="bg-j" x="538" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="k" clip-path="url(#clip25_1_161)">
+<rect id="bg-k" x="622" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="l" clip-path="url(#clip26_1_161)">
+<rect id="bg-l" x="706" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="&#34;">
+<rect id="bg-apost" x="790" y="129" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="." clip-path="url(#clip27_1_161)">
+<rect id="bg-point" x="764" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="space">
+<rect id="bg-space" x="260" y="267" width="498" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="left">
+<rect id="bg-arrowLeft" x="764" y="267" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="right">
+<rect id="bg-arrow-right" x="932" y="267" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="down">
+<rect id="bg-arrow-right_2" x="848" y="267" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+<g id="up">
+<rect id="bg-arrow-right_3" x="848" y="198" width="78" height="63" fill="white" fill-opacity="0.1"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_161">
+<rect width="78" height="63" fill="white" transform="translate(8 60)"/>
+</clipPath>
+<clipPath id="clip1_1_161">
+<rect width="78" height="63" fill="white" transform="translate(92 60)"/>
+</clipPath>
+<clipPath id="clip2_1_161">
+<rect width="78" height="63" fill="white" transform="translate(92 198)"/>
+</clipPath>
+<clipPath id="clip3_1_161">
+<rect width="78" height="63" fill="white" transform="translate(176 60)"/>
+</clipPath>
+<clipPath id="clip4_1_161">
+<rect width="78" height="63" fill="white" transform="translate(176 198)"/>
+</clipPath>
+<clipPath id="clip5_1_161">
+<rect width="78" height="63" fill="white" transform="translate(260 60)"/>
+</clipPath>
+<clipPath id="clip6_1_161">
+<rect width="78" height="63" fill="white" transform="translate(260 198)"/>
+</clipPath>
+<clipPath id="clip7_1_161">
+<rect width="78" height="63" fill="white" transform="translate(344 60)"/>
+</clipPath>
+<clipPath id="clip8_1_161">
+<rect width="78" height="63" fill="white" transform="translate(344 198)"/>
+</clipPath>
+<clipPath id="clip9_1_161">
+<rect width="78" height="63" fill="white" transform="translate(428 60)"/>
+</clipPath>
+<clipPath id="clip10_1_161">
+<rect width="78" height="63" fill="white" transform="translate(428 198)"/>
+</clipPath>
+<clipPath id="clip11_1_161">
+<rect width="78" height="63" fill="white" transform="translate(512 60)"/>
+</clipPath>
+<clipPath id="clip12_1_161">
+<rect width="78" height="63" fill="white" transform="translate(512 198)"/>
+</clipPath>
+<clipPath id="clip13_1_161">
+<rect width="78" height="63" fill="white" transform="translate(596 60)"/>
+</clipPath>
+<clipPath id="clip14_1_161">
+<rect width="78" height="63" fill="white" transform="translate(596 198)"/>
+</clipPath>
+<clipPath id="clip15_1_161">
+<rect width="78" height="63" fill="white" transform="translate(680 60)"/>
+</clipPath>
+<clipPath id="clip16_1_161">
+<rect width="78" height="63" fill="white" transform="translate(680 198)"/>
+</clipPath>
+<clipPath id="clip17_1_161">
+<rect width="78" height="63" fill="white" transform="translate(764 60)"/>
+</clipPath>
+<clipPath id="clip18_1_161">
+<rect width="78" height="63" fill="white" transform="translate(34 129)"/>
+</clipPath>
+<clipPath id="clip19_1_161">
+<rect width="78" height="63" fill="white" transform="translate(118 129)"/>
+</clipPath>
+<clipPath id="clip20_1_161">
+<rect width="78" height="63" fill="white" transform="translate(202 129)"/>
+</clipPath>
+<clipPath id="clip21_1_161">
+<rect width="78" height="63" fill="white" transform="translate(286 129)"/>
+</clipPath>
+<clipPath id="clip22_1_161">
+<rect width="78" height="63" fill="white" transform="translate(370 129)"/>
+</clipPath>
+<clipPath id="clip23_1_161">
+<rect width="78" height="63" fill="white" transform="translate(454 129)"/>
+</clipPath>
+<clipPath id="clip24_1_161">
+<rect width="78" height="63" fill="white" transform="translate(538 129)"/>
+</clipPath>
+<clipPath id="clip25_1_161">
+<rect width="78" height="63" fill="white" transform="translate(622 129)"/>
+</clipPath>
+<clipPath id="clip26_1_161">
+<rect width="78" height="63" fill="white" transform="translate(706 129)"/>
+</clipPath>
+<clipPath id="clip27_1_161">
+<rect width="78" height="63" fill="white" transform="translate(764 198)"/>
+</clipPath>
+</defs>
+</svg>
